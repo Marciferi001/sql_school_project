@@ -1,2 +1,3 @@
-# sql_school_project
-ide rakjuk fel a "működő" SQL fájlokat
+# SQL Project
+Ez a fő branch.
+ide rakjuk fel a "működő" SQL fájlokat.
