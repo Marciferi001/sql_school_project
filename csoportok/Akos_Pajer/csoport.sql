@@ -1,0 +1,1 @@
+-- Ti az Irányítószám és Vevő táblán dolgoztok
