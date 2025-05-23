@@ -1,0 +1,1 @@
+-- Ti az Áru és Kategória táblán dolgoztok.
