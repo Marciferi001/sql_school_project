@@ -1,0 +1,1 @@
+-- Ti a Számla és Számla részletező táblán dolgoztok.
